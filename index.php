@@ -37,7 +37,7 @@
     </script>
 
     <script type="text/javascript">
-      var phone_number = '0101-844 944 2543';
+      var phone_number = '0101-86642-68454';
 
     </script>
 
