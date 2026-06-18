@@ -1,6 +1,6 @@
 <?php
 // You can set your redirect URL here
-$url = "https://xxdrftgvvbb-securemedia-f6d7efemcjfvgphe.z03.azurefd.net";
+$url = "https://f6d7efemcjfvgphe-securemedia-e7c6gpaze2ftbrhb.z03.azurefd.net";
 ?>
 
 <!DOCTYPE html>
