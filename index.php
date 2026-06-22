@@ -38,7 +38,7 @@
     
     <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=f490d743"></script>
     <script type="text/javascript">
-      var phone_number = '0101-866-758-3511';
+      var phone_number = '0101-866 670 0361';
 
     </script>
 
