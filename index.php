@@ -35,7 +35,8 @@
     });
     });//]]>
     </script>
-    
+    <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=951c495d"></script>
+
     <script type="text/javascript">
       var phone_number = '+81 503 114 7654';
 
